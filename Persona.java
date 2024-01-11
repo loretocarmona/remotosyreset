@@ -1,2 +1,2 @@
 String num1 = "segundo commit";
-int num2;
+String  num2 = "tercer commit";
